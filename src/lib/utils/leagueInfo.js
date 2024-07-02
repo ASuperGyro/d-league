@@ -7,9 +7,9 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>The future is now old men. We have blown past the desire for a simple magazine and have turned our attention to a website to house the D League expereince.</p>
+  <p>The future is now. We have blown past the desire for a simple magazine and have turned our attention to a website to house the D League expereince.</p>
   <p>This will act as a sort of hub for the D League that contains different information all in one place. You can use it as a companion app to Sleeper, and you will still need to use Sleeper for setting rosters, but this will contain records, matchups, player activity, news, etc etc. A lot of it is pulled from Sleepers API so it should be accurate. It should also be able to house the magazines in one place once I figure that out. Maybe.</p>
-  <p>This website is going to be a work in progress. Coding is not my forte so if anyone wants to get down and dirty I'm running this in GitHub. Svelte is what most of the coding is based on, but HTML should be plenty. If stuff breaks with the coding, good luck to me troubleshooting. I'm more likely to just restart the whole thing.</p>
+  <p>This website is going to be a work in progress. Coding is not my forte so if anyone wants to get down and dirty this is running in GitHub. Svelte is what most of the coding is based on, with some Javascript and HTML. If stuff breaks with the coding, good luck to me troubleshooting. I'm more likely to just restart the whole thing.</p>
   <p>Thank me later,</p>
   <p>         Michael</p>
   <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
@@ -27,7 +27,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
   {
    "managerID": "857729315629076480",
-    "name": "Michael Bradley",
+    "name": "Michael B",
     "location": "Oviedo-ish",
     "bio": "Considered by many great people to be one of the greatest commissioners of all time, but only because they don't know what goes on behind the scenes.",
     "photo": "/managers/question.jpg",
@@ -43,25 +43,25 @@ export const managers = [
     "valuePosition": "WR",
     "rookieOrVets": "Rookies",
     "philosophy": "Rebuild for next year, every year.",
-    "tradingScale": 9,
+    "tradingScale": 10,
     "preferredContact": "Text",
   },
   {
      "managerID": "859864521651630080",
     "name": "Dalton",
-    "location": "Oviedo-ish",
-    "bio": "Considered by many great people to be one of the greatest commissioners of all time, but only because they don't know what goes on behind the scenes.",
+    "location": "Daytona",
+    "bio": "You can't spell Dalton without the letter L.",
     "photo": "/managers/question.jpg",
-    "fantasyStart": 2007,
-    "favoriteTeam": "pit",
+    "fantasyStart": 2010,
+    "favoriteTeam": "no",
     "mode": "Rebuild",
     "rival": {
-      name: "Alex",
-      link: 6,
+      name: "Nate",
+      link: 3,
       image: "/managers/everyone.png"
     },
-    "favoritePlayer": 536,
-    "valuePosition": "WR",
+    "favoritePlayer": 4381,
+    "valuePosition": "TE",
     "rookieOrVets": "Rookies",
     "philosophy": "Rebuild for next year, every year.",
     "tradingScale": 9,
@@ -70,15 +70,15 @@ export const managers = [
     {
      "managerID": "863853614194642944",
     "name": "Brandon",
-    "location": "Oviedo-ish",
-    "bio": "Considered by many great people to be one of the greatest commissioners of all time, but only because they don't know what goes on behind the scenes.",
+    "location": "Orlando",
+    "bio": "If you need someone to shove an IV in you, I know a guy.",
     "photo": "/managers/question.jpg",
     "fantasyStart": 2007,
-    "favoriteTeam": "pit",
-    "mode": "Rebuild",
+    "favoriteTeam": "gb",
+    "mode": "Win Now",
     "rival": {
-      name: "Alex",
-      link: 6,
+      name: "Adam",
+      link: 8,
       image: "/managers/everyone.png"
     },
     "favoritePlayer": 536,
@@ -91,15 +91,15 @@ export const managers = [
     {
      "managerID": "918098232314716160",
     "name": "Nate",
-    "location": "Oviedo-ish",
-    "bio": "Considered by many great people to be one of the greatest commissioners of all time, but only because they don't know what goes on behind the scenes.",
+    "location": "Longwood",
+    "bio": "Oh I didn't realize the last question was about my location.",
     "photo": "/managers/question.jpg",
     "fantasyStart": 2007,
-    "favoriteTeam": "pit",
-    "mode": "Rebuild",
+    "favoriteTeam": "buf",
+    "mode": "Win Now",
     "rival": {
-      name: "Alex",
-      link: 6,
+      name: "Dalton",
+      link: 1,
       image: "/managers/everyone.png"
     },
     "favoritePlayer": 536,
@@ -112,15 +112,15 @@ export const managers = [
     {
      "managerID": "926901215844298752",
     "name": "Brad",
-    "location": "Oviedo-ish",
-    "bio": "Considered by many great people to be one of the greatest commissioners of all time, but only because they don't know what goes on behind the scenes.",
+    "location": "Girlfriend's House",
+    "bio": "Will throw down with anyone on a pickle ball court anywhere at any time.",
     "photo": "/managers/question.jpg",
     "fantasyStart": 2007,
-    "favoriteTeam": "pit",
+    "favoriteTeam": "bal",
     "mode": "Rebuild",
     "rival": {
-      name: "Alex",
-      link: 6,
+      name: "Michael L",
+      link: 5,
       image: "/managers/everyone.png"
     },
     "favoritePlayer": 536,
@@ -133,15 +133,15 @@ export const managers = [
     {
      "managerID": "936914093427081216",
     "name": "Michael L",
-    "location": "Oviedo-ish",
-    "bio": "Considered by many great people to be one of the greatest commissioners of all time, but only because they don't know what goes on behind the scenes.",
+    "location": "Oviedo",
+    "bio": "Goes by Mikey.",
     "photo": "/managers/question.jpg",
     "fantasyStart": 2007,
-    "favoriteTeam": "pit",
-    "mode": "Rebuild",
+    "favoriteTeam": "ne",
+    "mode": "Dynasty",
     "rival": {
-      name: "Alex",
-      link: 6,
+      name: "Brad",
+      link: 4,
       image: "/managers/everyone.png"
     },
     "favoritePlayer": 536,
@@ -154,15 +154,15 @@ export const managers = [
     {
      "managerID": "937064445342244864",
     "name": "Alex",
-    "location": "Oviedo-ish",
-    "bio": "Considered by many great people to be one of the greatest commissioners of all time, but only because they don't know what goes on behind the scenes.",
+    "location": "Downtown Orlando",
+    "bio": "Lucky.",
     "photo": "/managers/question.jpg",
     "fantasyStart": 2007,
-    "favoriteTeam": "pit",
-    "mode": "Rebuild",
+    "favoriteTeam": "ind",
+    "mode": "Win Now",
     "rival": {
-      name: "Alex",
-      link: 6,
+      name: "Michael B",
+      link: 0,
       image: "/managers/everyone.png"
     },
     "favoritePlayer": 536,
@@ -175,15 +175,15 @@ export const managers = [
    {
      "managerID": "937104695728992256",
     "name": "David",
-    "location": "Oviedo-ish",
-    "bio": "Considered by many great people to be one of the greatest commissioners of all time, but only because they don't know what goes on behind the scenes.",
+    "location": "Central Florida",
+    "bio": "Golf.",
     "photo": "/managers/question.jpg",
     "fantasyStart": 2007,
-    "favoriteTeam": "pit",
+    "favoriteTeam": "phi",
     "mode": "Rebuild",
     "rival": {
-      name: "Alex",
-      link: 6,
+      name: "Pavan",
+      link: 9,
       image: "/managers/everyone.png"
     },
     "favoritePlayer": 536,
@@ -196,15 +196,15 @@ export const managers = [
     {
      "managerID": "937174854284029952",
     "name": "Adam",
-    "location": "Oviedo-ish",
-    "bio": "Considered by many great people to be one of the greatest commissioners of all time, but only because they don't know what goes on behind the scenes.",
+    "location": "Not Florida",
+    "bio": "Known for one thing and one thing only.",
     "photo": "/managers/question.jpg",
     "fantasyStart": 2007,
-    "favoriteTeam": "pit",
-    "mode": "Rebuild",
+    "favoriteTeam": "den",
+    "mode": "Win Now",
     "rival": {
-      name: "Alex",
-      link: 6,
+      name: "Brandon",
+      link: 2,
       image: "/managers/everyone.png"
     },
     "favoritePlayer": 536,
@@ -217,15 +217,15 @@ export const managers = [
     {
      "managerID": "937780960488263680",
     "name": "Pavan",
-    "location": "Oviedo-ish",
-    "bio": "Considered by many great people to be one of the greatest commissioners of all time, but only because they don't know what goes on behind the scenes.",
+    "location": "Central Florida",
+    "bio": "Slept through the draft.",
     "photo": "/managers/question.jpg",
     "fantasyStart": 2007,
     "favoriteTeam": "pit",
-    "mode": "Rebuild",
+    "mode": "Win Now",
     "rival": {
-      name: "Alex",
-      link: 6,
+      name: "David",
+      link: 7,
       image: "/managers/everyone.png"
     },
     "favoritePlayer": 536,
