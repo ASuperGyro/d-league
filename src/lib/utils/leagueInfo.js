@@ -29,14 +29,14 @@ export const managers = [
     "name": "Michael Bradley",
     "location": "Oviedo-ish",
     "bio": "Considered by many great people to be one of the greatest commissioners of all time, but only because they don't know what goes on behind the scenes.",
-    "photo": "/managers/michaelb.jpg",
+    "photo": "/managers/C Suite2.jpg",
     "fantasyStart": 2007,
     "favoriteTeam": "pit",
     "mode": "Rebuild",
     "rival": {
       name: "Alex",
       link: 6,
-      image: "/managers/alex.jpg"
+      image: "/managers/Blue-Gold.jpg"
     },
     "favoritePlayer": 536,
     "valuePosition": "WR",
