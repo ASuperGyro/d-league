@@ -30,14 +30,14 @@ export const managers = [
     "name": "Michael B",
     "location": "Oviedo-ish",
     "bio": "Considered by many great people to be one of the greatest commissioners of all time, but only because they don't know what goes on behind the scenes.",
-    "photo": "/managers/question.jpg",
+    "photo": "/managers/michael.jpg",
     "fantasyStart": 2007,
     "favoriteTeam": "pit",
     "mode": "Rebuild",
     "rival": {
       name: "Alex",
       link: 6,
-      image: "/managers/everyone.png"
+      image: "/managers/alex.jpg"
     },
     "favoritePlayer": 536,
     "valuePosition": "WR",
@@ -51,14 +51,14 @@ export const managers = [
     "name": "Dalton",
     "location": "Daytona",
     "bio": "You can't spell Dalton without the letter L.",
-    "photo": "/managers/question.jpg",
+    "photo": "/managers/dalton.jpg",
     "fantasyStart": 2010,
     "favoriteTeam": "no",
     "mode": "Rebuild",
     "rival": {
       name: "Nate",
       link: 3,
-      image: "/managers/everyone.png"
+      image: "/managers/nate.jpg"
     },
     "favoritePlayer": 4381,
     "valuePosition": "TE",
@@ -72,14 +72,14 @@ export const managers = [
     "name": "Brandon",
     "location": "Orlando",
     "bio": "If you need someone to shove an IV in you, I know a guy.",
-    "photo": "/managers/question.jpg",
+    "photo": "/managers/brandon.jpg",
     "fantasyStart": 2007,
     "favoriteTeam": "gb",
     "mode": "Win Now",
     "rival": {
       name: "Adam",
       link: 8,
-      image: "/managers/everyone.png"
+      image: "/managers/adam.jpg"
     },
     "favoritePlayer": 536,
     "valuePosition": "WR",
@@ -93,14 +93,14 @@ export const managers = [
     "name": "Nate",
     "location": "Longwood",
     "bio": "Oh I didn't realize the last question was about my location.",
-    "photo": "/managers/question.jpg",
+    "photo": "/managers/nate.jpg",
     "fantasyStart": 2007,
     "favoriteTeam": "buf",
     "mode": "Win Now",
     "rival": {
       name: "Dalton",
       link: 1,
-      image: "/managers/everyone.png"
+      image: "/managers/dalton.jpg"
     },
     "favoritePlayer": 536,
     "valuePosition": "WR",
@@ -114,14 +114,14 @@ export const managers = [
     "name": "Brad",
     "location": "Girlfriend's House",
     "bio": "Will throw down with anyone on a pickle ball court anywhere at any time.",
-    "photo": "/managers/question.jpg",
+    "photo": "/managers/brad.jpg",
     "fantasyStart": 2007,
     "favoriteTeam": "bal",
     "mode": "Rebuild",
     "rival": {
       name: "Michael L",
       link: 5,
-      image: "/managers/everyone.png"
+      image: "/managers/michaell.jpg"
     },
     "favoritePlayer": 536,
     "valuePosition": "WR",
@@ -135,14 +135,14 @@ export const managers = [
     "name": "Michael L",
     "location": "Oviedo",
     "bio": "Goes by Mikey.",
-    "photo": "/managers/question.jpg",
+    "photo": "/managers/michaell.jpg",
     "fantasyStart": 2007,
     "favoriteTeam": "ne",
     "mode": "Dynasty",
     "rival": {
       name: "Brad",
       link: 4,
-      image: "/managers/everyone.png"
+      image: "/managers/brad.jpg"
     },
     "favoritePlayer": 536,
     "valuePosition": "WR",
@@ -156,14 +156,14 @@ export const managers = [
     "name": "Alex",
     "location": "Downtown Orlando",
     "bio": "Lucky.",
-    "photo": "/managers/question.jpg",
+    "photo": "/managers/alex.jpg",
     "fantasyStart": 2007,
     "favoriteTeam": "ind",
     "mode": "Win Now",
     "rival": {
       name: "Michael B",
       link: 0,
-      image: "/managers/everyone.png"
+      image: "/managers/michael.jpg"
     },
     "favoritePlayer": 536,
     "valuePosition": "WR",
@@ -177,14 +177,14 @@ export const managers = [
     "name": "David",
     "location": "Central Florida",
     "bio": "Golf.",
-    "photo": "/managers/question.jpg",
+    "photo": "/managers/david.jpg",
     "fantasyStart": 2007,
     "favoriteTeam": "phi",
     "mode": "Rebuild",
     "rival": {
       name: "Pavan",
       link: 9,
-      image: "/managers/everyone.png"
+      image: "/managers/pavan.jpg"
     },
     "favoritePlayer": 536,
     "valuePosition": "WR",
@@ -198,14 +198,14 @@ export const managers = [
     "name": "Adam",
     "location": "Not Florida",
     "bio": "Known for one thing and one thing only.",
-    "photo": "/managers/question.jpg",
+    "photo": "/managers/adam.jpg",
     "fantasyStart": 2007,
     "favoriteTeam": "den",
     "mode": "Win Now",
     "rival": {
       name: "Brandon",
       link: 2,
-      image: "/managers/everyone.png"
+      image: "/managers/brandon.jpg"
     },
     "favoritePlayer": 536,
     "valuePosition": "WR",
@@ -219,14 +219,14 @@ export const managers = [
     "name": "Pavan",
     "location": "Central Florida",
     "bio": "Slept through the draft.",
-    "photo": "/managers/question.jpg",
+    "photo": "/managers/pavan.jpg",
     "fantasyStart": 2007,
     "favoriteTeam": "pit",
     "mode": "Win Now",
     "rival": {
       name: "David",
       link: 7,
-      image: "/managers/everyone.png"
+      image: "/managers/david.jpg"
     },
     "favoritePlayer": 536,
     "valuePosition": "WR",
