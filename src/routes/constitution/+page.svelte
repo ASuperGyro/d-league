@@ -337,12 +337,11 @@
 
 <h2 class="sectionHeading" bind:this={seven}>Section 7 League Administration</h2>
     <h3 bind:this={sevenOne}>7.1 Rule Changes</h3>
-        <p>Every year in the offseason owners can put forth ideas to be voted upon that impact the league. Major changes can only be made in the offseason, and with approval by the league. If there are points of high contention the commissioner may overrule to keep the peace.
-        If decided, there can be an in-person meeting, or can be held leading into the draft. In that instance the people present at the meeting (out of state withstanding) are able to vote on changes.</p>
+        <p>Every year in the offseason owners can put forth ideas to be voted upon that impact the league. Major changes can only be made in the offseason, and with approval by the league. If there are points of high contention the commissioner may overrule to keep the peace.If decided, there can be an in-person meeting, or can be held leading into the draft. In that instance the people present at the meeting (out of state withstanding) are able to vote on changes.</p>
         <p>The rule changes will be recorded. Ultimately, again, as for many things, the commissioner will have final say as necessary to keep things flowing well, but should not use that unless needed.</p>
     <h4 bind:this={sevenOneOne}>7.1.1 Implementation</h3>
         <p> Rule change timelines should be agreed upon during the proposal of the rule. Major changes should be a year or more in advance, while minor changes can have a shorter window. Once the implementation window is agreed upon and the change approved, the commissioner should implement as soon as possible.</p>
-    
+
     <h3 bind:this={sevenTwo}>7.2 Orphaned Teams</h3>
         <p>In the event of a team owner leaving the league an attempt to find a replacement owner will be made. The replacement owner will pay 50% of the coming year buy-in, with the rest covered by the previous owner down payment. If a new owner is difficult to find due to the state of the team, additional benefits to entice a new owner may be voted upon. If the previous owner is able to find a new owner, and they work it out that the new owner will pay the full buy-in, then the leaving owner may get their deposit back.</p>
         <p>If a fantasy year starts without an owner:</p>
