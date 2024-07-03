@@ -177,7 +177,7 @@
             <p> Full scoring settings can be found in the Sleeper app.</p>
         
         <h4 bind:this={oneOneTwo}>1.1.2 Fees</h4>
-        <p>League dues are set at {dues}$. This will increase by $5 each year until reaching $35, at which point it will either remain or we will reassess.</p>
+        <p>League dues are set at ${dues}. This will increase by $5 each year until reaching $35, at which point it will either remain or we will reassess.</p>
         <p>50% of next year’s buy-in should be paid as a deposit before the start of the current season. If a team is orphaned this deposit will go towards discounting the buy-in for the incoming owner.</p>
         <p>No owner will pay more than 100% of their dues for a given year. </p>
         <p>Funds will be held by the commissioner in a Venmo/PayPal account until payouts are dispersed at the end of the season.</p>
