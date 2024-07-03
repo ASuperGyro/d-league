@@ -341,7 +341,6 @@
         <p>The rule changes will be recorded. Ultimately, again, as for many things, the commissioner will have final say as necessary to keep things flowing well, but should not use that unless needed.</p>
     <h4 bind:this={sevenOneOne}>7.1.1 Implementation</h3>
         <p> Rule change timelines should be agreed upon during the proposal of the rule. Major changes should be a year or more in advance, while minor changes can have a shorter window. Once the implementation window is agreed upon and the change approved, the commissioner should implement as soon as possible.</p>
-
     <h3 bind:this={sevenTwo}>7.2 Orphaned Teams</h3>
         <p>In the event of a team owner leaving the league an attempt to find a replacement owner will be made. The replacement owner will pay 50% of the coming year buy-in, with the rest covered by the previous owner down payment. If a new owner is difficult to find due to the state of the team, additional benefits to entice a new owner may be voted upon. If the previous owner is able to find a new owner, and they work it out that the new owner will pay the full buy-in, then the leaving owner may get their deposit back.</p>
         <p>If a fantasy year starts without an owner:</p>
@@ -349,7 +348,6 @@
     	<p>The team will be set by the commissioner for max projected points each week</p>
     	<p>Transactions will not be made by the team unless under extenuating circumstances, approved by the commissioner (season ending injuries needing new players to fill in)</p>
     	<p>If the orphaned team wins the league then the prize pool will be added to the next year, less the buy-in for the following year for the orphaned team.</p>
-
     <h3 bind:this={sevenThree}>7.3 Empire Clause</h3>
         <p>If, after five years of the league being in existence, a team totals three championships then the league is able to vote on a reset. This is to maintain competitive integrity if the league is out of balance due to unseen circumstances. The owner of the empire team will get an additional fourth round pick of the new startup draft to give them an advantage for losing the team they built.</p>
         <p>In the instance of the owners voting an empire has been achieved and the league should reset, all future monies paid for draft picks will be returned to the original owners.</p>
