@@ -290,10 +290,10 @@
         <p>The lower seed that is eliminated in the first round gets the higher(better) draft pick. Teams eliminated in the second round must set competitive lineups for placing 3rd and 4th.</p>
     <h4 bind:this={fourOneOne}>4.1.1 Payouts</h4>
         <ul>
-        <li>1st place: {dues * 7.5}$</li>
-        <li>2nd place: {dues * 1.5}$</li>
+        <li>1st place: ${dues * 7.5}</li>
+        <li>2nd place: ${dues * 1.5}</li>
         <li>3rd place: +$20 FAAB for off-season and next season</li>
-        <li>Most PF: {dues}$</li>
+        <li>Most PF: ${dues}</li>
         </ul>
         <p> Payouts are 7.5x buy-in for 1st place, 1.5x buy-in for 2nd place, FAAB bonus for 3rd, and returning of your buy-in for most points scored during the regular season. The Most PF bonus can be awarded to any team finish.</p>
     
