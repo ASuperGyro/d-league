@@ -83,8 +83,8 @@ import { dynasty } from './utils/helper';
             redraftOnly: true,
         },
         {
-            name: "Reddit FF Trade Analyzer",
-            url: "https://www.reddit.com/r/TradeAnalyzerFF/",
+            name: "Reddit Dynasty FF Trade Advice",
+            url: "https://www.reddit.com/r/DynastyFFTradeAdvice/",
             icon: "assessment",
             premium: false,
             separator: true,
