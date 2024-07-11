@@ -10,9 +10,9 @@ export const homepageText = `
   <p>The future is now. We have blown past the desire for a simple magazine and have turned our attention to a website to house the D League expereince.</p>
   <p>This will act as a sort of hub for the D League that contains different information all in one place. You can use it as a companion app to Sleeper, and you will still need to use Sleeper for setting rosters, but this will contain records, matchups, player activity, news, etc etc. A lot of it is pulled from Sleepers API so it should be accurate. It should also be able to house the magazines in one place once I figure that out. Maybe.</p>
   <p>This website is going to be a work in progress. Coding is not my forte so if anyone wants to get down and dirty this is running in GitHub. Svelte is what most of the coding is based on, with some Javascript and HTML. If stuff breaks with the coding, good luck to me troubleshooting. I'm more likely to just restart the whole thing.</p>
+  <p>Below you'll see a featured blog post that gives a rundown of the website capabilities. If there are any players you want to spotlight because of an interesting situation change or you think they'll boom or bust, let me know. Same thing with rookies, if there is someone you want to highlight for one reason or another, undervalued or overrated, whatever it is, let me know or just do it yourself and pass it along to me.</p>
   <p>Thank me later,</p>
-  <p>         Michael</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Michael</p>
 `;
 
 /*   STEP 3   */
