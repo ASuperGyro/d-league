@@ -41,7 +41,7 @@ export const managers = [
     },
     "favoritePlayer": 536,
     "valuePosition": "WR",
-    "rookieOrVets": "Rookies",
+    "rookieOrVets": "BDC Logo",
     "philosophy": "Rebuild for next year, every year.",
     "tradingScale": 10,
     "preferredContact": "Text",
