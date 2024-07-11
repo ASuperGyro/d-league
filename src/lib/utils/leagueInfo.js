@@ -27,9 +27,9 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
   {
    "managerID": "857729315629076480",
-    "name": "Michael B",
+    "name": "Michael Bradley",
     "location": "Oviedo-ish",
-    "bio": "Considered by many great people to be one of the greatest commissioners of all time, but only because they don't know what goes on behind the scenes.",
+    "bio": "Considered by many great people to be one of the greatest commissioners of all time, but only because they don't know what goes on behind the scenes. Phone Number: 321-262-5354  Sleeper Username: mbradley97",
     "photo": "/managers/michael.jpg",
     "fantasyStart": 2007,
     "favoriteTeam": "pit",
@@ -69,9 +69,9 @@ export const managers = [
     },
     {
      "managerID": "863853614194642944",
-    "name": "Brandon",
+    "name": "Brandon McKinzie",
     "location": "Orlando",
-    "bio": "If you need someone to shove an IV in you, I know a guy.",
+    "bio": "I'm an ICU nurse originally from Gainesville, FL who moved to Orlando a few years ago to be closer/live with my girlfriend. I'm a diehard packers fan and currently in grad school. If you need someone to shove an IV in you, I know a guy. Phone Number: xxx-xxx-xxxx   Sleeper Username: Bmmckinzie",
     "photo": "/managers/brandon.jpg",
     "fantasyStart": 2007,
     "favoriteTeam": "gb",
@@ -81,11 +81,11 @@ export const managers = [
       link: 8,
       image: "/managers/adam.jpg"
     },
-    "favoritePlayer": 536,
+    "favoritePlayer": 2133,
     "valuePosition": "WR",
-    "rookieOrVets": "Rookies",
-    "philosophy": "Rebuild for next year, every year.",
-    "tradingScale": 9,
+    "rookieOrVets": "Vets",
+    "philosophy": "Draft good players and score lots of points.",
+    "tradingScale": 8,
     "preferredContact": "Text",
     },
     {
