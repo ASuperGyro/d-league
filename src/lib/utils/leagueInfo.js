@@ -156,7 +156,7 @@ export const managers = [
      "managerID": "937064445342244864",
     "name": "Alex Finster",
     "location": "Downtown Orlando",
-    "bio": "Lucky.",
+    "bio": "Floyd’s Headliners embody our motto of expert cuts and amplified experience. Their price difference reflects their number of years in the industry, craft mastery, and demand of their time. Alex has been a barber for over 4 years and loves to meet people. Every client in his chair can count on a laugh. While cutting might be his forte, he especially loves doing beard trims. Also statistically lucky.",
     "photo": "/managers/alex.jpg",
     "fantasyStart": 2007,
     "favoriteTeam": "ind",
