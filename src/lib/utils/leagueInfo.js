@@ -90,7 +90,7 @@ export const managers = [
     },
     {
      "managerID": "918098232314716160",
-    "name": "Nate",
+    "name": "Nate Spear",
     "location": "Longwood",
     "bio": "Oh I didn't realize the last question was about my location.",
     "photo": "/managers/nate.jpg",
@@ -111,7 +111,7 @@ export const managers = [
     },
     {
      "managerID": "926901215844298752",
-    "name": "Brad",
+    "name": "Brad Landers",
     "location": "Girlfriend's House",
     "bio": "Will throw down with anyone on a pickle ball court anywhere at any time.",
     "photo": "/managers/brad.jpg",
@@ -132,8 +132,8 @@ export const managers = [
     },
     {
      "managerID": "936914093427081216",
-    "name": "Michael L",
-    "location": "Oviedo",
+    "name": "Michael Logan",
+    "location": "Winter Springs",
     "bio": "Goes by Mikey.",
     "photo": "/managers/michaell.jpg",
     "fantasyStart": 2007,
@@ -153,7 +153,7 @@ export const managers = [
     },
     {
      "managerID": "937064445342244864",
-    "name": "Alex",
+    "name": "Alex Finster",
     "location": "Downtown Orlando",
     "bio": "Lucky.",
     "photo": "/managers/alex.jpg",
