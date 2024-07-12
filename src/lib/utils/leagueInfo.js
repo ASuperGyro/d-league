@@ -29,9 +29,9 @@ export const managers = [
    "managerID": "857729315629076480",
     "name": "Michael Bradley",
     "location": "Oviedo-ish",
-    "bio": "Considered by many great people to be one of the greatest commissioners of all time, but only because they don't know what goes on behind the scenes. Phone Number: 321-262-5354  Sleeper Username: mbradley97",
+    "bio": "Considered by many great people to be one of the greatest commissioners of all time, but only because they don't know what goes on behind the scenes. Got a big orange cat, my sweet boy. Got called Tom Cruise by Mr. McFeely. 4.0 Pickleball player probably. Sprechen ein bisschen. If y'all tryna eat some sushi hmu. UCF/Griffith. Phone Number: 321-262-5354  Sleeper Username: mbradley97",
     "photo": "/managers/michael.jpg",
-    "fantasyStart": 2007,
+    "fantasyStart": 2007
     "favoriteTeam": "pit",
     "mode": "Rebuild",
     "rival": {
