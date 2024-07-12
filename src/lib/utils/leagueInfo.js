@@ -31,10 +31,11 @@ export const managers = [
     "location": "Oviedo-ish",
     "bio": "Considered by many great people to be one of the greatest commissioners of all time, but only because they don't know what goes on behind the scenes. Got a big orange cat, my sweet boy. Got called Tom Cruise by Mr. McFeely. 4.0 Pickleball player probably. Sprechen ein bisschen. If y'all tryna eat some sushi hmu. UCF/Griffith. Phone Number: 321-262-5354  Sleeper Username: mbradley97",
     "photo": "/managers/michael.jpg",
-    "fantasyStart": 2007
+    "fantasyStart": 2007,
     "favoriteTeam": "pit",
     "mode": "Rebuild",
     "rival": {
+
       name: "Alex",
       link: 6,
       image: "/managers/alex.jpg"
