@@ -83,7 +83,7 @@ export const managers = [
       image: "/managers/adam.jpg"
     },
     "favoritePlayer": 2133,
-    "valuePosition": "WR",
+    "valuePosition": "RB",
     "rookieOrVets": "BDC",
     "philosophy": "Draft good players and score lots of points.",
     "tradingScale": 8,
