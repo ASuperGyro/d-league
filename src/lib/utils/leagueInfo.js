@@ -196,9 +196,9 @@ export const managers = [
     },
     {
      "managerID": "937174854284029952",
-    "name": "Adam",
-    "location": "Not Florida",
-    "bio": "Known for one thing and one thing only.",
+    "name": "Adam Warack",
+    "location": "Greensboro, NC",
+    "bio": "I have 2 fluffy dogs and enjoy long walks on the beach.",
     "photo": "/managers/adam.jpg",
     "fantasyStart": 2007,
     "favoriteTeam": "den",
@@ -208,11 +208,11 @@ export const managers = [
       link: 2,
       image: "/managers/brandon.jpg"
     },
-    "favoritePlayer": 536,
+    "favoritePlayer": 4227,
     "valuePosition": "WR",
     "rookieOrVets": "LDC",
-    "philosophy": "Rebuild for next year, every year.",
-    "tradingScale": 9,
+    "philosophy": "What would Tebow do.",
+    "tradingScale": 4,
     "preferredContact": "Text",
     },
     {
