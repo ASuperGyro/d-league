@@ -49,7 +49,7 @@ export const managers = [
   },
   {
      "managerID": "859864521651630080",
-    "name": "Dalton",
+    "name": "Dalton Bozenhardt",
     "location": "Daytona Beach",
     "bio": "You can't spell Dalton without the letter L.",
     "photo": "/managers/dalton.jpg",
@@ -166,11 +166,11 @@ export const managers = [
       link: 0,
       image: "/managers/michael.jpg"
     },
-    "favoritePlayer": 536,
+    "favoritePlayer": 294,
     "valuePosition": "WR",
     "rookieOrVets": "BDC",
-    "philosophy": "Rebuild for next year, every year.",
-    "tradingScale": 9,
+    "philosophy": "Win football games.",
+    "tradingScale": 6,
     "preferredContact": "Text",
     },
    {
