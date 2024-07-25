@@ -124,7 +124,7 @@ export const managers = [
       link: 5,
       image: "/managers/michaell.jpg"
     },
-    "favoritePlayer": 4881,
+    "favoritePlayer": 11292,
     "valuePosition": "WR",
     "rookieOrVets": "BDC",
     "philosophy": "Visualize and execute.",
