@@ -181,7 +181,7 @@ export const managers = [
     "photo": "/managers/david.jpg",
     "fantasyStart": 2007,
     "favoriteTeam": "phi",
-    "mode": "Rebuild",
+    "mode": "Win Now",
     "rival": {
       name: "Pavan",
       link: 9,
@@ -218,8 +218,8 @@ export const managers = [
     {
      "managerID": "937780960488263680",
     "name": "Pavan",
-    "location": "Peepee Poopoo Land",
-    "bio": "Slept through the draft.",
+    "location": "Oviedo",
+    "bio": "I’m all about positivity and have great humility as well as modesty. The most modest many people say. I do a lot of volunteer work. Adam is my current hospice patient. Slept through the draft.",
     "photo": "/managers/pavan.jpg",
     "fantasyStart": 2007,
     "favoriteTeam": "cle",
@@ -229,11 +229,11 @@ export const managers = [
       link: 7,
       image: "/managers/david.jpg"
     },
-    "favoritePlayer": 1907,
-    "valuePosition": "TE",
+    "favoritePlayer": 4070,
+    "valuePosition": "WR",
     "rookieOrVets": "LDC",
-    "philosophy": "Play dynasty on an island with zero interaction cause peepee head.",
-    "tradingScale": 1,
+    "philosophy": "DJ Khaled. We da best.",
+    "tradingScale": 6,
     "preferredContact": "Text",
     },
   ]
