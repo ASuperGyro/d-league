@@ -219,7 +219,7 @@ export const managers = [
      "managerID": "937780960488263680",
     "name": "Pavan",
     "location": "Oviedo",
-    "bio": "I’m all about positivity and have great humility as well as modesty. The most modest many people say. I do a lot of volunteer work. Adam is my current hospice patient. Slept through the draft.",
+    "bio": "You think you just fell out of a coconut tree? You exist in the context of all in which you live and what came before you. I also slept through the draft.",
     "photo": "/managers/pavan.jpg",
     "fantasyStart": 2007,
     "favoriteTeam": "cle",
